@@ -105,4 +105,8 @@ Karena seluruh aplikasi HANYA file HTML statis, repo ini bisa langsung di-host:
 
 ---
 
+## 📄 Lisensi
+
+[MIT License](LICENSE) — bebas dipakai, diubah, didistribusikan, termasuk untuk keperluan komersial.
+
 Terinspirasi dari konsep [github.com/ankareport/ankareport](https://github.com/ankareport/ankareport); ditulis ulang mandiri dari nol dengan cakupan yang jauh lebih luas.
